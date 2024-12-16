@@ -4,7 +4,7 @@ const keepalive = require('./keep_alive.js')
 const bot = new Telegraf("7765736774:AAEGa4eQlwnCjwPl8ZxHQFdhVjg0c_7urvc");
 
 // آی‌دی تلگرام فردی که پیام‌ها باید به او ارسال شوند (ادمین)
-const ADMIN_ID = 5375945127; // به جای این مقدار، آی‌دی ادمین را قرار دهید
+const ADMIN_ID = 984888875; // به جای این مقدار، آی‌دی ادمین را قرار دهید
 
 // وقتی کاربر دستور /start را می‌فرستد
 bot.start((ctx) => {
